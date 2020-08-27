@@ -12,13 +12,13 @@ A proposta do projeto é desenvolver uma tabela que exiba informações dos plan
 Para rodá-lo em sua máquina, basta clonar o repositório utilizando seu terminal:
 
 ```
-git clone git@github.com:guicgs/trivia-react-redux.git
+git clone git@github.com:guicgs/react-context-hooks-starwars-datatable.git
 ```
 
 Em seguida, acesse a pasta:
 
 ```
-cd trivia-react-redux
+cd react-context-hooks-starwars-datatable
 ```
 
 Por fim, dê o comando para iniciar a aplicação no navegador:
@@ -27,4 +27,4 @@ Por fim, dê o comando para iniciar a aplicação no navegador:
 npm start
 ```
 
-Caso tenha interesse, você pode acessar o histórico de desenvolvimento do projeto por meio dos commits originais [neste link](https://github.com/tryber/sd-02-block17-trivia-react-redux-3)
+Caso tenha interesse, você pode acessar o histórico de desenvolvimento do projeto por meio dos commits originais [neste link](https://github.com/tryber/sd-02-block18-react-context-hooks-starwars-datatable-filters/tree/guicgs-react-context-hooks-starwars-datatable-filters)
